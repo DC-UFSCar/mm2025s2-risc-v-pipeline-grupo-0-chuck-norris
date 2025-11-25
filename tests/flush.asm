@@ -16,6 +16,8 @@ main:
     nop
     nop
     beq s1, s2, L1
+    nop 
+    nop
     sub s8, t1, s3
     or  s9, t6, s5
 L1:

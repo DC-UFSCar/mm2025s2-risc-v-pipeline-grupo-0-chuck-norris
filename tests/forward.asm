@@ -13,6 +13,9 @@ main:
     nop
     nop
     add s8, s4, s5
+    nop
+    nop
+    nop
     sub s2, s8, s3
     or  s9, t6, s8
     and s7, s8, t2

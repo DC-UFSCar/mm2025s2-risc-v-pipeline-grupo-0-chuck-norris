@@ -12,6 +12,9 @@ main:
     nop
     nop
     lw s7, 40(s5)
+    nop 
+    nop
+    nop
     and s8, s7, t3
     or  t2, s6, s7
     sub s3, s7, s2
